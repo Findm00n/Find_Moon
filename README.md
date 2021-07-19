@@ -1,2 +1,2 @@
 # Find_Moon
-This is for studing
+This is for studying
